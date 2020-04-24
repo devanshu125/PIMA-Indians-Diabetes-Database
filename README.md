@@ -1,5 +1,5 @@
 # PIMA-Indians-Diabetes-Database
-My first attempt to predict the onset of diabetes based on diagnostic measures.
+My first attempt to predict the onset of diabetes based on diagnostic measures. This is the [dataset](https://www.kaggle.com/uciml/pima-indians-diabetes-database) used.
 
 This problem is broken down into two sections - 
 ### 1. Data Pre-processing
